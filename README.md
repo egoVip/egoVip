@@ -7,6 +7,10 @@ Beginner front-end developer looking for my first job
 - React
 - Git/GitHub
 
+📫 Contact me
+- egovip@mail.ru
+- +7 (913) 209-45-09
+
 
 <!--
 **egoVip/egoVip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
